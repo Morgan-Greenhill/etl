@@ -90,7 +90,7 @@ The type for state ids.
 
 ## Member Functions
 ```cpp
-event_it_t get_state_id() const
+state_id_t get_state_id() const
 ```
 Returns the id of the state.
 
